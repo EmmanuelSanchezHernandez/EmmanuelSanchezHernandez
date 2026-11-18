@@ -21,6 +21,7 @@ and the infrastructure behind it.*
 - [**ctx-aviso**](https://github.com/EmmanuelSanchezHernandez/ctx-aviso) — Hook de Claude Code que avisa una vez al pasar 200k y 300k tokens de contexto
 - [**doc-tools**](https://github.com/EmmanuelSanchezHernandez/doc-tools) — Generadores de XLSX y DOCX a partir de una especificación en JSON
 - [**theming**](https://github.com/EmmanuelSanchezHernandez/theming) — Tema de terminal (tmux, starship, ttyd) generado desde el fondo de pantalla
+- [**wa-omega**](https://github.com/EmmanuelSanchezHernandez/wa-omega) — Oído de WhatsApp para un asistente: Node, 83 pruebas y banco de sabotajes
 <!-- DESTACADOS:FIN -->
 
 ## En qué trabajo
